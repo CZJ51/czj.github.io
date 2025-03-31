@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>诗词学习</title>
+    诗词学习
   </head>
   <body>
     <br>我是第一行<br>我是第二行
